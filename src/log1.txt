@@ -1,0 +1,5 @@
+info: usuário logou no sistema
+error: falha ao carregar página inicial
+info: requisição ao servidor bem-sucedida
+error: falha ao conectar ao banco de dados
+warning: memória disponível baixa

@@ -1,0 +1,5 @@
+info: arquivo salvo com sucesso
+error: falha ao abrir arquivo
+info: conexão estabelecida
+error: falha na comunicação com o servidor
+warning: espaço em disco insuficiente

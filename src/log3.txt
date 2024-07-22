@@ -1,0 +1,5 @@
+info: usuário deslogou do sistema
+error: tentativa de acesso não autorizado
+info: atualização bem-sucedida
+error: falha ao salvar configurações
+warning: temperatura do servidor alta
